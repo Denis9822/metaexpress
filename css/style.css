@@ -234,8 +234,8 @@
     
     .about .column_row {
         background: rgba(9, 9, 19, 0.35);
-        backdrop-filter: blur(40px);
-        -webkit-backdrop-filter: blur(40px);
+        backdrop-filter: blur(40px) contrast(60%);
+        -webkit-backdrop-filter: blur(40px) contrast(60%);
         /* Note: backdrop-filter has minimal browser support */
         border-radius: 12px;
         padding: 24px 60px;
@@ -564,8 +564,8 @@
     .activity_wrap {
         margin-top: 80px;
         background: rgba(9, 9, 19, 0.35);
-        backdrop-filter: blur(40px);
-        -webkit-backdrop-filter: blur(40px);
+        backdrop-filter: blur(40px) contrast(60%);
+        -webkit-backdrop-filter: blur(40px) contrast(60%);
         /* Note: backdrop-filter has minimal browser support */
         border-radius: 6px;
         padding: 24px;
@@ -911,8 +911,8 @@
     
     .profile_ref {
         background: rgba(9, 9, 19, 0.35);
-        backdrop-filter: blur(40px);
-        -webkit-backdrop-filter: blur(40px);
+        backdrop-filter: blur(40px) contrast(60%);
+        -webkit-backdrop-filter: blur(40px) contrast(60%);
         /* Note: backdrop-filter has minimal browser support */
         border-radius: 12px;
         padding: 16px 24px;
@@ -989,8 +989,8 @@
         width: 255px;
         padding: 24px;
         background: rgba(9, 9, 19, 0.35);
-        backdrop-filter: blur(40px);
-        -webkit-backdrop-filter: blur(40px);
+        backdrop-filter: blur(40px) contrast(60%);
+        -webkit-backdrop-filter: blur(40px) contrast(60%);
         /* Note: backdrop-filter has minimal browser support */
         border-radius: 12px;
     }
