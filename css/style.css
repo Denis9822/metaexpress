@@ -1453,6 +1453,8 @@
         }
         .profile_photo {
             margin-right: 14px;
+            width: 100px;
+            height: auto;
         }
         .profile .column {
             justify-content: left;
