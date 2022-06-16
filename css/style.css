@@ -568,6 +568,7 @@
         border-radius: 6px;
         padding: 24px;
         overflow-y: scroll;
+        -webkit-overflow-scrolling: touch;
         height: 480px;
     }
     
@@ -1373,6 +1374,7 @@
         }
         .activity_wrap {
             overflow: scroll;
+            -webkit-overflow-scrolling: touch;
         }
         .activity_wrap_item {
             width: max-content;
@@ -1467,6 +1469,7 @@
         }
         .content .stats_items {
             overflow: scroll;
+            -webkit-overflow-scrolling: touch;
         }
         .content .stats_item {
             flex-direction: row;
